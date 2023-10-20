@@ -1,0 +1,24 @@
+IP,Category,Description
+192.168.1.1,Malware,Known malware-infected IP
+10.0.0.1,Phishing,Reported phishing source
+172.16.0.1,DDoS,Source of DDoS attacks
+203.0.113.45,Ransomware,Ransomware distribution point
+104.27.163.192,Scanning,Continuous port scanning activity
+78.128.113.13,Spam,Origin of email spam
+61.98.56.32,Suspicious,Suspicious IP activity detected
+218.34.27.88,Phishing,Phishing attempts from this IP
+132.78.45.11,Malware,IP associated with malware downloads
+212.18.77.90,DDoS,DDoS attack source
+112.34.67.89,Spam,Spam email origin
+33.123.56.78,Scanning,Scanning open ports
+45.67.78.98,Ransomware,Ransomware-related IP
+150.32.10.5,Suspicious,Suspicious behavior detected
+192.168.0.1,Malware,Malware activity observed
+80.88.76.54,Phishing,Phishing attempts reported
+192.168.1.2,Scanning,Port scanning activity detected
+162.35.45.67,Spam,Spam source
+208.75.123.65,Ransomware,Ransomware distribution point
+173.194.50.79,Suspicious,Suspicious behavior detected
+208.67.222.222,Malware,Associated with known malware
+77.90.45.23,Phishing,Phishing source detected
+208.123.45.67,DDoS,Source of DDoS attacks
