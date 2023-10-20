@@ -44,7 +44,7 @@ This Python script allows you to check if an IP address is flagged as a threat b
 
 ## CSV File Format
 
-The `threat.csv` file should have the following format:
+The `threat.csv` [Download](https://github.com/Tharunaditya/Enhancing-Cyber-Resilience-The-Role-of-Threat-Intelligence-in-Risk-Management/blob/dd8955597c27a7bc0a88d4d0457c4a4396d814c6/threat.csv) file should have the following format:
 
 ```
 IP,Category,Description
