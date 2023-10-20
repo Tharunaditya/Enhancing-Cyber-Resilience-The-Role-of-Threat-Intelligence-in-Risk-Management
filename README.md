@@ -1,10 +1,10 @@
 # Enhancing-Cyber-Resilience-The-Role-of-Threat-Intelligence-in-Risk-Management
-This paper explores threat intelligence's role in cyber risk management, addressing gaps and proposing solutions for cyber resilience. It contributes deep understandings in Risk management, drawing from 6 research papers and surveys. Valuable for cyber professionals and IT managers.
+This technical paper explores threat intelligence's role in cyber risk management, addressing gaps and proposing solutions for cyber resilience. It contributes deep understandings in Risk management, drawing from 6 research papers and surveys. Valuable for cyber professionals and IT managers.
 
+This Repository contains pdfs of Technical report and presentations. [PPT](https://github.com/Tharunaditya/Enhancing-Cyber-Resilience-The-Role-of-Threat-Intelligence-in-Risk-Management/blob/62ccbff886353e6100ed9eb3ac48f259913cc1f0/20P61A6206%20Threat%20Intelligence.pdf) [Report](https://github.com/Tharunaditya/Enhancing-Cyber-Resilience-The-Role-of-Threat-Intelligence-in-Risk-Management/blob/62ccbff886353e6100ed9eb3ac48f259913cc1f0/20P61A6206%20Threat%20Intelligence%20Report.pdf)
+Which can be utilized for further research and exploration in the realm of Threat Intelligence and Risk Management.
 
-
-Certainly! Here's a sample `README.md` file for your GitHub repository:
-
+The following are the instructions for executions
 ```markdown
 # Enhancing-Cyber-Resilience-The-Role-of-Threat-Intelligence-in-Risk-Management
 
