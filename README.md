@@ -5,7 +5,7 @@ This Repository contains Technical report and presentation in pdf format. [PPT](
 
 Which can be utilized for further research and exploration in the realm of Threat Intelligence and Risk Management.
 
-The following are the instructions for executions
+The following are the instructions for executing the program threat_intelligence.ipynb
 ```markdown
 # Enhancing-Cyber-Resilience-The-Role-of-Threat-Intelligence-in-Risk-Management
 
